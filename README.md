@@ -1,5 +1,5 @@
-<h1> .News Pluse</h1>
-<p> Newspluse is a news-providing website. It is likely that the website covers a variety of news topics such as politics, sports, entertainment, business, and technology. It may also offer breaking news alerts and analysis on current events.</p>
+<h1> .News Pulse</h1>
+<p> Newspulse is a news-providing website. It is likely that the website covers a variety of news topics such as politics, sports, entertainment, business, and technology. It may also offer breaking news alerts and analysis on current events.</p>
 
 
 ## Table of contents
