@@ -29,13 +29,14 @@
 
 ### Built with
 
-- Semantic HTML5 markup
+- Jsx
 - CSS custom properties
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- Tailwind Css
-- [React](https://reactjs.org/) - JS library
+- [Tailwind Css](https://tailwindcss.com)
+- [React + Vite](https://reactjs.org/) - JS library
+- [API](newsapi.org)
   
 ### How to run
 
