@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  line-height: 1.2;
+}
+body {
+  background-color: lightgray;
+}
+li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+.headline {
+  display: -webkit-box;
+  max-width: 100%;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.author {
+  display: -webkit-box;
+  max-width: 100%;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.showcase {
+  margin: 2rem auto;
+  max-width: 80%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+  gap: 1.5rem;
+  place-items: center;
+}
+.showbtn {
+  display: block !important;
+}
+
