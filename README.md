@@ -22,7 +22,7 @@
 
 ### Links
 
-- Solution URL: [Click Here](https://your-solution-url.com)
+- Solution URL: [Click Here](https://github.com/VishalMauryastp/News-App)
 - Video URL:[Click Here](https://drive.google.com/file/d/19p4hP1h99Cl4B_GU7wDb8OH7LQ96Qoqy/view?usp=share_link)
 
 ## My process
@@ -43,7 +43,7 @@
   
  -  install Vscode.  
  -  install Node.Js.
- -  Clone Git Repository [Click Here]( ) .
+ -  Clone Git Repository [Click Here](https://github.com/VishalMauryastp/News-App.git ) .
  -  Open this  Project directory  into the Vscode 
  -  To install the all required dependencies run the command which is given below :
     
